@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\TrabLU.csproj": {}
+    "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\TrabLU\\TrabLU.csproj": {}
   },
   "projects": {
-    "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\TrabLU.csproj": {
+    "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\TrabLU\\TrabLU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\TrabLU.csproj",
+        "projectUniqueName": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\TrabLU\\TrabLU.csproj",
         "projectName": "TrabLU",
-        "projectPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\TrabLU.csproj",
+        "projectPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\TrabLU\\TrabLU.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\obj\\",
+        "outputPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\TrabLU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",

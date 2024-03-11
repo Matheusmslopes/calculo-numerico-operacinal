@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tx1pwJjCOZ2ypcTcR05WtA+OmCEUfvBsOprhdpvbbEeEM2TBPrDUxS8fYDxRHDf7h06QNUWx/l2Fbvuyp5+w2Q==",
+  "dgSpecHash": "hvZZcC0qoCktzBDuuS2BvrtaGhhqlw5IY7roPhD4NvDjgqXn3q1z23X7qDclb/tiyfPvdAdSfApGFXOQsl1qKg==",
   "success": true,
-  "projectFilePath": "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\TrabLU.csproj",
+  "projectFilePath": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\TrabLU\\TrabLU.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
