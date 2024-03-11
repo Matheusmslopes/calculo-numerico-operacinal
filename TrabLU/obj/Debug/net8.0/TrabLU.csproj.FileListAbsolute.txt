@@ -1,0 +1,14 @@
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\bin\Debug\net8.0\TrabLU.exe
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\bin\Debug\net8.0\TrabLU.deps.json
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\bin\Debug\net8.0\TrabLU.runtimeconfig.json
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\bin\Debug\net8.0\TrabLU.dll
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\bin\Debug\net8.0\TrabLU.pdb
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\TrabLU.GeneratedMSBuildEditorConfig.editorconfig
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\TrabLU.AssemblyInfoInputs.cache
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\TrabLU.AssemblyInfo.cs
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\TrabLU.csproj.CoreCompileInputs.cache
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\TrabLU.dll
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\refint\TrabLU.dll
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\TrabLU.pdb
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\TrabLU.genruntimeconfig.cache
+C:\UVV\Periodo5\CalcNumerComp\TrabLU\obj\Debug\net8.0\ref\TrabLU.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\Exercício de Fatoração.csproj",
-      "projectName": "Exercício de Fatoração",
-      "projectPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\Exercício de Fatoração.csproj",
+      "projectUniqueName": "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\TrabLU.csproj",
+      "projectName": "TrabLU",
+      "projectPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\TrabLU.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\Trabalho-1\\Exercício de Fatoração\\obj\\",
+      "outputPath": "C:\\UVV\\Periodo5\\CalcNumerComp\\TrabLU\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
