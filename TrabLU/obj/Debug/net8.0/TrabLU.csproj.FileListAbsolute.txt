@@ -27,3 +27,6 @@ C:\UVV\Periodo5\CalcNumerComp\calculo-numerico-operacinal\TrabLU\bin\Debug\net8.
 C:\UVV\Periodo5\CalcNumerComp\calculo-numerico-operacinal\TrabLU\bin\Debug\net8.0\TrabLU.pdb
 C:\UVV\Periodo5\CalcNumerComp\calculo-numerico-operacinal\TrabLU\obj\Debug\net8.0\TrabLU.genruntimeconfig.cache
 C:\UVV\Periodo5\CalcNumerComp\calculo-numerico-operacinal\TrabLU\obj\Debug\net8.0\ref\TrabLU.dll
+C:\UVV\Periodo5\CalcNumerComp\calculo-numerico-operacinal\TrabLU\obj\Debug\net8.0\TrabLU.csproj.AssemblyReference.cache
+C:\UVV\Periodo5\CalcNumerComp\calculo-numerico-operacinal\TrabLU\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\UVV\Periodo5\CalcNumerComp\calculo-numerico-operacinal\TrabLU\obj\Debug\net8.0\TrabLU.csproj.Up2Date

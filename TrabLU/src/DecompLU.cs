@@ -1,36 +1,33 @@
-class DecompLU
+using System;
+using MathNet.Numerics.LinearAlgebra;
+using MathNet.Numerics.LinearAlgebra.Double;
+
+public class DecompLU
 {
-
-    /* Funcao principal que servira para fazer a decomposicao LU*/
-    public static void DecomposicaoLU(double[,] matrizA, out double[,] matrizL, out double[,] matrizU)
+    public static void DecomposicaoLU()
     {
-        /* Este metodo esta explicado no Program.cs, basicamente esta pegando o numero que ira formar a nova matriz L(matrizLower) e U(Matriz Upper) */
-        int tamanho = matrizA.GetLength(0);
-        matrizL = new double[tamanho, tamanho];
-        matrizU = new double[tamanho, tamanho];
+        /*
+            Utilizando o exemplo que foi dado em sala de aula:
+                3x + 2y + 4z = 1
+                1x +  y + 2z = 2
+                4x + 3y - 2z = 3
 
-        /* Loop para inicializar a matriz L com a sua diaggonal principal com os valores 1 */
-        for (int i = 0; i < tamanho; i++){
-           matrizL[i,i] = 1.0;
-        }
-    }
+                espera-se que o resultado seja uma matriz 3x1 com os resultados [-3, 5, 0].
+        
+            Inicializando a matriz dos coeficientes de tamanho 3x3 */
+        var matrizA = Matrix<double>.Build.DenseOfArray(new double[,] {
+            { 3, 2, 4 },
+            { 1, 1, 2 },
+            { 4, 3, -2 }
+        });
 
-    /* Funcao que ira resolver os sistemas L . y = b e U . x = y */
-    public void ResolverSistemas()
-    {
-       
-    }
+        /* Inicializando a matriz b */
+        var matrizB = Vector<double>.Build.Dense(new double[] { 1, 2, 3 });
 
-    /* Funcao que ira ser responsavel pela troca dos valores das novas linhas a partir do calculo pelo ML */
-    private void NovaLinha()
-    {
-       
-    }
+        /**/ 
+        var matrizX = matrizA.Solve(matrizB);
 
-    /* Funcao que ira ser responsavel por achar o novo pivo */
-    private void ProcurarPivo()
-    {
-      
+        Console.WriteLine(matrizX);
     }
 }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabLU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58c7e1ddb12d035513fb630b6b2192d775938cde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cca71ee77c68e0c4bffc2c8c0c82bf84d23a0ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabLU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabLU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

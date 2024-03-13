@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hvZZcC0qoCktzBDuuS2BvrtaGhhqlw5IY7roPhD4NvDjgqXn3q1z23X7qDclb/tiyfPvdAdSfApGFXOQsl1qKg==",
+  "dgSpecHash": "bVzagK3GFLB9gH2X3ctKWeTBTmUB+vshLyxzK4Kqraiu4oK+kpCfQdAc9BK+ndMiiKFfUsZbh4RHgiygOeKcuQ==",
   "success": true,
   "projectFilePath": "C:\\UVV\\Periodo5\\CalcNumerComp\\calculo-numerico-operacinal\\TrabLU\\TrabLU.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\mathnet.numerics\\6.0.0-beta1\\mathnet.numerics.6.0.0-beta1.nupkg.sha512"
+  ],
   "logs": []
 }
