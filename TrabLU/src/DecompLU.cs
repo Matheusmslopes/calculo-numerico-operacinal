@@ -24,7 +24,7 @@ public class DecompLU
         /* Condicao para ver se foi informado uma matriz quadrada */
         if (linha != coluna){
             Console.WriteLine("O numero de linhas e o numero de colunas precisam ser iguais");
-            Environment.Exit(0);
+            Environment.Exit(1);
         }
             
         /* Inicializando a matriz A utilizando a biblioteca MathNet */
