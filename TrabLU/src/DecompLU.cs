@@ -79,7 +79,7 @@ public class DecompLU
             {
                 Console.Write(matriz[i,j] + " ");
             }
-            Console.WriteLine("");
+            Console.WriteLine();
         }
     }
 
@@ -88,11 +88,9 @@ public class DecompLU
     {
         for(int i = 0; i < vetor.Count; i++)
         {
-            Console.Write(vetor[i]);
-            Console.WriteLine("");
-            
+            Console.WriteLine(vetor[i]);
         }
-        Console.WriteLine("");
+        Console.WriteLine();
     }
 }
 
